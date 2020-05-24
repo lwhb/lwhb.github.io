@@ -1,0 +1,6 @@
+title: LawHub
+description: 国会に提出された議案をGitHubのような差分形式で可視化します。
+theme: jekyll-theme-slate
+show_downloads: false
+google_analytics:
+twitter_username: lawhubtokyo
